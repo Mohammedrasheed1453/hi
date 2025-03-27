@@ -6,6 +6,5 @@ regex
 plotly
 numpy
 selenium
-webdriver-manager
-sqlite3  # Remove if not using SQLite
+webdriver-manager 
 pymongo  # Remove if not using MongoDB
